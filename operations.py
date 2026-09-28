@@ -1,0 +1,7 @@
+f=open('k.txt','w')
+f.write("Hello\n")
+f.write('Python\n')
+# f.close()
+# f.write("Programming")
+# f.writelines(['Hello\n,''Python\n'])
+f.close()

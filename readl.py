@@ -1,0 +1,7 @@
+f=open('k.txt')
+# s=f.read()
+# print(s)
+# print(type(s))
+s=f.readlines()
+print(s)
+print(type(s))
